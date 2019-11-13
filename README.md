@@ -1,5 +1,5 @@
 # Fashion-MNIST
-Fashion MNIST Classification using Bayes and KNN Classifier + Feature dimension reduction using PCA and LDA
+Fashion MNIST Classification using Bayes and KNN Classifier + Dimension reduction using PCA and LDA
 
 This is a Python implementation of Bayes and K-nn classifer plus PCA and LDA dimension reduction on Fashion MNIST dataset.  It’s consisted of mnistreader.py, Bayes.py class, KNN.py class, and Driver.py.  
 
