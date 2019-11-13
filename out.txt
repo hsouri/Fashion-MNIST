@@ -1,0 +1,534 @@
+RAW__bayes: accuracy is 71.03
+
+RAW__1nn: accuracy is 84.97
+
+RAW__2nn: accuracy is 84.6
+
+RAW__3nn: accuracy is 85.41
+
+RAW__11nn: accuracy is 84.95
+
+RAW__21nn: accuracy is 84.07
+
+RAW__31nn: accuracy is 83.48
+
+RAW__41nn: accuracy is 82.87
+
+RAW__51nn: accuracy is 82.58
+
+RAW__61nn: accuracy is 82.28
+
+PCA_1_components_bayes: accuracy is 30.37
+
+PCA_1_components_1nn: accuracy is 22.400000000000002
+
+PCA_1_components_11nn: accuracy is 26.66
+
+PCA_1_components_21nn: accuracy is 28.04
+
+PCA_1_components_31nn: accuracy is 28.7
+
+PCA_1_components_41nn: accuracy is 29.4
+
+PCA_1_components_51nn: accuracy is 29.86
+
+PCA_1_components_61nn: accuracy is 30.259999999999998
+
+PCA_1_components_71nn: accuracy is 30.17
+
+PCA_1_components_81nn: accuracy is 30.29
+
+PCA_1_components_91nn: accuracy is 30.490000000000002
+
+PCA_2_components_bayes: accuracy is 51.32
+
+PCA_2_components_1nn: accuracy is 44.87
+
+PCA_2_components_11nn: accuracy is 53.32
+
+PCA_2_components_21nn: accuracy is 55.05
+
+PCA_2_components_31nn: accuracy is 55.11000000000001
+
+PCA_2_components_41nn: accuracy is 55.730000000000004
+
+PCA_2_components_51nn: accuracy is 55.43
+
+PCA_2_components_61nn: accuracy is 55.60000000000001
+
+PCA_2_components_71nn: accuracy is 55.78999999999999
+
+PCA_2_components_81nn: accuracy is 55.93
+
+PCA_2_components_91nn: accuracy is 55.85
+
+PCA_3_components_bayes: accuracy is 61.68
+
+PCA_3_components_1nn: accuracy is 57.46
+
+PCA_3_components_11nn: accuracy is 64.25999999999999
+
+PCA_3_components_21nn: accuracy is 64.75
+
+PCA_3_components_31nn: accuracy is 64.79
+
+PCA_3_components_41nn: accuracy is 64.72
+
+PCA_3_components_51nn: accuracy is 64.99000000000001
+
+PCA_3_components_61nn: accuracy is 65.16
+
+PCA_3_components_71nn: accuracy is 65.01
+
+PCA_3_components_81nn: accuracy is 65.19
+
+PCA_3_components_91nn: accuracy is 65.10000000000001
+
+PCA_4_components_bayes: accuracy is 67.17
+
+PCA_4_components_1nn: accuracy is 65.41
+
+PCA_4_components_11nn: accuracy is 71.24000000000001
+
+PCA_4_components_21nn: accuracy is 71.95
+
+PCA_4_components_31nn: accuracy is 72.18
+
+PCA_4_components_41nn: accuracy is 71.97
+
+PCA_4_components_51nn: accuracy is 71.81
+
+PCA_4_components_61nn: accuracy is 71.67999999999999
+
+PCA_4_components_71nn: accuracy is 71.63000000000001
+
+PCA_4_components_81nn: accuracy is 71.36
+
+PCA_4_components_91nn: accuracy is 71.38
+
+PCA_5_components_bayes: accuracy is 70.19
+
+PCA_5_components_1nn: accuracy is 69.76
+
+PCA_5_components_11nn: accuracy is 74.35000000000001
+
+PCA_5_components_21nn: accuracy is 74.77000000000001
+
+PCA_5_components_31nn: accuracy is 74.65
+
+PCA_5_components_41nn: accuracy is 74.59
+
+PCA_5_components_51nn: accuracy is 74.61
+
+PCA_5_components_61nn: accuracy is 74.61
+
+PCA_5_components_71nn: accuracy is 74.48
+
+PCA_5_components_81nn: accuracy is 74.37
+
+PCA_5_components_91nn: accuracy is 74.33
+
+PCA_6_components_bayes: accuracy is 71.04
+
+PCA_6_components_1nn: accuracy is 72.07000000000001
+
+PCA_6_components_11nn: accuracy is 76.89
+
+PCA_6_components_21nn: accuracy is 76.55
+
+PCA_6_components_31nn: accuracy is 76.64
+
+PCA_6_components_41nn: accuracy is 76.5
+
+PCA_6_components_51nn: accuracy is 76.38000000000001
+
+PCA_6_components_61nn: accuracy is 76.34
+
+PCA_6_components_71nn: accuracy is 76.2
+
+PCA_6_components_81nn: accuracy is 76.11
+
+PCA_6_components_91nn: accuracy is 76.06
+
+PCA_7_components_bayes: accuracy is 71.65
+
+PCA_7_components_1nn: accuracy is 74.4
+
+PCA_7_components_11nn: accuracy is 78.28
+
+PCA_7_components_21nn: accuracy is 77.83
+
+PCA_7_components_31nn: accuracy is 77.73
+
+PCA_7_components_41nn: accuracy is 77.36
+
+PCA_7_components_51nn: accuracy is 77.25999999999999
+
+PCA_7_components_61nn: accuracy is 77.17
+
+PCA_7_components_71nn: accuracy is 76.97
+
+PCA_7_components_81nn: accuracy is 76.92
+
+PCA_7_components_91nn: accuracy is 76.57000000000001
+
+LDA_7_components_bayes: accuracy is 82.42
+
+LDA_7_components_1nn: accuracy is 79.11
+
+LDA_7_components_11nn: accuracy is 83.25
+
+LDA_7_components_21nn: accuracy is 83.06
+
+LDA_7_components_31nn: accuracy is 83.3
+
+LDA_7_components_41nn: accuracy is 83.37
+
+LDA_7_components_51nn: accuracy is 83.34
+
+LDA_7_components_61nn: accuracy is 83.27
+
+LDA_7_components_71nn: accuracy is 83.1
+
+LDA_7_components_81nn: accuracy is 83.16
+
+LDA_7_components_91nn: accuracy is 83.17999999999999
+
+PCA_8_components_bayes: accuracy is 72.68
+
+PCA_8_components_1nn: accuracy is 75.21
+
+PCA_8_components_11nn: accuracy is 79.28
+
+PCA_8_components_21nn: accuracy is 78.88
+
+PCA_8_components_31nn: accuracy is 78.85
+
+PCA_8_components_41nn: accuracy is 78.68
+
+PCA_8_components_51nn: accuracy is 78.47
+
+PCA_8_components_61nn: accuracy is 78.17
+
+PCA_8_components_71nn: accuracy is 77.97
+
+PCA_8_components_81nn: accuracy is 77.84
+
+PCA_8_components_91nn: accuracy is 77.75999999999999
+
+PCA_9_components_bayes: accuracy is 73.41
+
+PCA_9_components_1nn: accuracy is 77.35
+
+PCA_9_components_11nn: accuracy is 80.31
+
+PCA_9_components_21nn: accuracy is 80.54
+
+PCA_9_components_31nn: accuracy is 80.12
+
+PCA_9_components_41nn: accuracy is 79.82000000000001
+
+PCA_9_components_51nn: accuracy is 79.49000000000001
+
+PCA_9_components_61nn: accuracy is 79.34
+
+PCA_9_components_71nn: accuracy is 79.17999999999999
+
+PCA_9_components_81nn: accuracy is 79.02
+
+PCA_9_components_91nn: accuracy is 78.94
+
+PCA_50_components_bayes: accuracy is 77.51
+
+PCA_50_components_1nn: accuracy is 84.17999999999999
+
+PCA_50_components_11nn: accuracy is 85.69
+
+PCA_50_components_21nn: accuracy is 85.39
+
+PCA_50_components_31nn: accuracy is 84.81
+
+PCA_50_components_41nn: accuracy is 84.42
+
+PCA_100_components_bayes: accuracy is 77.68
+
+PCA_100_components_1nn: accuracy is 84.93
+
+PCA_100_components_11nn: accuracy is 85.92
+
+PCA_100_components_21nn: accuracy is 85.37
+
+PCA_100_components_31nn: accuracy is 85.02
+
+PCA_100_components_41nn: accuracy is 84.6
+
+PCA_200_components_bayes: accuracy is 76.82
+
+PCA_200_components_1nn: accuracy is 85.24000000000001
+
+PCA_200_components_11nn: accuracy is 85.91
+
+PCA_200_components_21nn: accuracy is 85.25
+
+PCA_200_components_31nn: accuracy is 84.57000000000001
+
+PCA_200_components_41nn: accuracy is 84.16
+
+PCA_300_components_bayes: accuracy is 75.88000000000001
+
+PCA_300_components_1nn: accuracy is 85.2
+
+PCA_300_components_11nn: accuracy is 85.50999999999999
+
+PCA_300_components_21nn: accuracy is 84.78
+
+PCA_300_components_31nn: accuracy is 84.27
+
+PCA_300_components_41nn: accuracy is 83.8
+
+PCA_400_components_bayes: accuracy is 74.65
+
+PCA_400_components_1nn: accuracy is 85.17
+
+PCA_400_components_11nn: accuracy is 85.13
+
+PCA_400_components_21nn: accuracy is 84.53
+
+PCA_400_components_31nn: accuracy is 83.93
+
+PCA_400_components_41nn: accuracy is 83.38
+
+PCA_500_components_bayes: accuracy is 73.71
+
+PCA_500_components_1nn: accuracy is 84.99
+
+PCA_500_components_11nn: accuracy is 85.06
+
+PCA_500_components_21nn: accuracy is 84.35000000000001
+
+PCA_500_components_31nn: accuracy is 83.83
+
+PCA_500_components_41nn: accuracy is 83.19
+
+PCA_600_components_bayes: accuracy is 72.58
+
+PCA_600_components_1nn: accuracy is 84.94
+
+PCA_600_components_11nn: accuracy is 84.93
+
+PCA_600_components_21nn: accuracy is 84.2
+
+PCA_600_components_31nn: accuracy is 83.71
+
+PCA_600_components_41nn: accuracy is 83.00999999999999
+
+PCA_700_components_bayes: accuracy is 71.61999999999999
+
+PCA_700_components_1nn: accuracy is 84.94
+
+PCA_700_components_11nn: accuracy is 84.95
+
+PCA_700_components_21nn: accuracy is 84.13000000000001
+
+PCA_700_components_31nn: accuracy is 83.52000000000001
+
+PCA_700_components_41nn: accuracy is 82.88
+
+LDA_1_components_bayes: accuracy is 47.72
+
+LDA_1_components_1nn: accuracy is 40.52
+
+LDA_1_components_11nn: accuracy is 45.92
+
+LDA_1_components_21nn: accuracy is 46.1
+
+LDA_1_components_31nn: accuracy is 46.28
+
+LDA_1_components_41nn: accuracy is 46.68
+
+LDA_1_components_51nn: accuracy is 46.9
+
+LDA_1_components_61nn: accuracy is 47.19
+
+LDA_1_components_71nn: accuracy is 47.28
+
+LDA_1_components_81nn: accuracy is 47.510000000000005
+
+LDA_1_components_91nn: accuracy is 47.56
+
+LDA_2_components_bayes: accuracy is 59.93000000000001
+
+LDA_2_components_1nn: accuracy is 51.51
+
+LDA_2_components_11nn: accuracy is 58.67
+
+LDA_2_components_21nn: accuracy is 59.68
+
+LDA_2_components_31nn: accuracy is 60.419999999999995
+
+LDA_2_components_41nn: accuracy is 60.529999999999994
+
+LDA_2_components_51nn: accuracy is 60.64000000000001
+
+LDA_2_components_61nn: accuracy is 60.9
+
+LDA_2_components_71nn: accuracy is 60.64000000000001
+
+LDA_2_components_81nn: accuracy is 60.96
+
+LDA_2_components_91nn: accuracy is 60.99
+
+LDA_3_components_bayes: accuracy is 67.49000000000001
+
+LDA_3_components_1nn: accuracy is 60.17
+
+LDA_3_components_11nn: accuracy is 66.92
+
+LDA_3_components_21nn: accuracy is 67.53
+
+LDA_3_components_31nn: accuracy is 67.74
+
+LDA_3_components_41nn: accuracy is 67.63
+
+LDA_3_components_51nn: accuracy is 67.84
+
+LDA_3_components_61nn: accuracy is 68.05
+
+LDA_3_components_71nn: accuracy is 68.12
+
+LDA_3_components_81nn: accuracy is 68.12
+
+LDA_3_components_91nn: accuracy is 67.99
+
+LDA_4_components_bayes: accuracy is 70.03
+
+LDA_4_components_1nn: accuracy is 63.129999999999995
+
+LDA_4_components_11nn: accuracy is 69.56
+
+LDA_4_components_21nn: accuracy is 70.61
+
+LDA_4_components_31nn: accuracy is 70.89999999999999
+
+LDA_4_components_41nn: accuracy is 71.00999999999999
+
+LDA_4_components_51nn: accuracy is 71.06
+
+LDA_4_components_61nn: accuracy is 71.23
+
+LDA_4_components_71nn: accuracy is 71.09
+
+LDA_4_components_81nn: accuracy is 71.02000000000001
+
+LDA_4_components_91nn: accuracy is 71.11
+
+LDA_5_components_bayes: accuracy is 74.19
+
+LDA_5_components_1nn: accuracy is 69.21000000000001
+
+LDA_5_components_11nn: accuracy is 74.49
+
+LDA_5_components_21nn: accuracy is 75.14999999999999
+
+LDA_5_components_31nn: accuracy is 75.64999999999999
+
+LDA_5_components_41nn: accuracy is 75.71
+
+LDA_5_components_51nn: accuracy is 75.7
+
+LDA_5_components_61nn: accuracy is 75.62
+
+LDA_5_components_71nn: accuracy is 75.75
+
+LDA_5_components_81nn: accuracy is 75.81
+
+LDA_5_components_91nn: accuracy is 75.89
+
+LDA_6_components_bayes: accuracy is 77.33
+
+LDA_6_components_1nn: accuracy is 73.3
+
+LDA_6_components_11nn: accuracy is 78.94
+
+LDA_6_components_21nn: accuracy is 79.32000000000001
+
+LDA_6_components_31nn: accuracy is 79.12
+
+LDA_6_components_41nn: accuracy is 79.32000000000001
+
+LDA_6_components_51nn: accuracy is 79.44
+
+LDA_6_components_61nn: accuracy is 79.62
+
+LDA_6_components_71nn: accuracy is 79.47
+
+LDA_6_components_81nn: accuracy is 79.49000000000001
+
+LDA_6_components_91nn: accuracy is 79.39
+
+LDA_7_components_bayes: accuracy is 78.03999999999999
+
+LDA_7_components_1nn: accuracy is 74.72
+
+LDA_7_components_11nn: accuracy is 79.67999999999999
+
+LDA_7_components_21nn: accuracy is 79.94
+
+LDA_7_components_31nn: accuracy is 79.79
+
+LDA_7_components_41nn: accuracy is 79.84
+
+LDA_7_components_51nn: accuracy is 79.97
+
+LDA_7_components_61nn: accuracy is 79.92
+
+LDA_7_components_71nn: accuracy is 79.82000000000001
+
+LDA_7_components_81nn: accuracy is 79.82000000000001
+
+LDA_7_components_91nn: accuracy is 79.83
+
+LDA_8_components_bayes: accuracy is 80.73
+
+LDA_8_components_1nn: accuracy is 78.17
+
+LDA_8_components_11nn: accuracy is 82.50999999999999
+
+LDA_8_components_21nn: accuracy is 82.82000000000001
+
+LDA_8_components_31nn: accuracy is 82.72
+
+LDA_8_components_41nn: accuracy is 82.88
+
+LDA_8_components_51nn: accuracy is 82.8
+
+LDA_8_components_61nn: accuracy is 82.77
+
+LDA_8_components_71nn: accuracy is 82.64
+
+LDA_8_components_81nn: accuracy is 82.63000000000001
+
+LDA_8_components_91nn: accuracy is 82.58
+
+LDA_9_components_bayes: accuracy is 82.42
+
+LDA_9_components_1nn: accuracy is 79.11
+
+LDA_9_components_11nn: accuracy is 83.25
+
+LDA_9_components_21nn: accuracy is 83.06
+
+LDA_9_components_31nn: accuracy is 83.3
+
+LDA_9_components_41nn: accuracy is 83.37
+
+LDA_9_components_51nn: accuracy is 83.34
+
+LDA_9_components_61nn: accuracy is 83.27
+
+LDA_9_components_71nn: accuracy is 83.1
+
+LDA_9_components_81nn: accuracy is 83.16
+
+LDA_9_components_91nn: accuracy is 83.17999999999999
+
