@@ -27,5 +27,9 @@ bayesclassifier = Bayes(traindata, trainlabels, testdata, testlabels, ’Name’
 knnclassifier = KNN(traindata, trainlabels, testdata, testlabels, k , ’Name’, out put file)
 knnclassifier.train().test()
 
+# PCA and LDA:
+
+Take a look at main function in the Driver.py to see how to apply PCA and LDA to the feature vector.
+
 # Train all models:
 python Driver.py
