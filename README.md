@@ -15,7 +15,15 @@ $ git clone https://github.com/hsouri/Fashion-MNIST
 ```
 
 # Usage
+
 The training can be done by running the main function in the Driver.py.
+
+# Train all models:
+
+```shell
+$ python Driver.py
+
+```
 
 How to read fashion mnist: 
 
@@ -26,29 +34,21 @@ testdata, testlabels = mnistreader.loadmnist(’data/fashion’, kind=’t10k’
 
 # Bayes Train and Test:
 
+```shell
 bayesclassifier = Bayes(traindata, trainlabels, testdata, testlabels, ’Name’, output file)bayesclassifier.train().test()
+```
 
 
 # K-NN Train and Test:
 
+```shell
 knnclassifier = KNN(traindata, trainlabels, testdata, testlabels, k , ’Name’, out put file)
 knnclassifier.train().test()
+```
+
 
 # PCA and LDA:
 
 Take a look at main function in the Driver.py to see how to apply PCA and LDA to the feature vector.
 
-# Train all models:
-python Driver.py
 
-
-$ git remote add origin https://github.com/user/repo.git
-
-$ git remote -v
-# Verify new remote
-> origin  https://github.com/user/repo.git (fetch)
-> origin  https://github.com/user/repo.git (push)
-
-
-I think you should use an
-`<addr>` element here instead.
