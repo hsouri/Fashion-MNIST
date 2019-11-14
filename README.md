@@ -36,5 +36,3 @@ python Driver.py
 
 
 
-$ git remote add origin https://github.com/user/repo.git
-# Set a new remote
