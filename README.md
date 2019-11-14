@@ -44,3 +44,7 @@ $ git remote -v
 # Verify new remote
 > origin  https://github.com/user/repo.git (fetch)
 > origin  https://github.com/user/repo.git (push)
+
+
+I think you should use an
+`<addr>` element here instead.
