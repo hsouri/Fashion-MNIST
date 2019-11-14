@@ -35,7 +35,8 @@ testdata, testlabels = mnistreader.loadmnist(’data/fashion’, kind=’t10k’
 # Bayes Train and Test:
 
 ```shell
-bayesclassifier = Bayes(traindata, trainlabels, testdata, testlabels, ’Name’, output file)bayesclassifier.train().test()
+bayesclassifier = Bayes(traindata, trainlabels, testdata, testlabels, ’Name’, output file)
+bayesclassifier.train().test()
 ```
 
 
