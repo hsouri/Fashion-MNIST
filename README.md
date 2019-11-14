@@ -7,9 +7,12 @@ Note: Please download and copy fashion train set into the fashion folder of the 
 
 The results are saved into out.txt file.
 
-# Usage:
+# Getting Started
+Clone this repository with the following command:
 
+git clone https://github.com/Pirazh/Circle-Detection
 
+# Usage
 The training can be done by running the main function in the Driver.py.
 
 How to read fashion mnist: 
