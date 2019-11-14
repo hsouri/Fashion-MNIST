@@ -35,4 +35,9 @@ Take a look at main function in the Driver.py to see how to apply PCA and LDA to
 python Driver.py
 
 
+$ git remote add origin https://github.com/user/repo.git
 
+$ git remote -v
+# Verify new remote
+> origin  https://github.com/user/repo.git (fetch)
+> origin  https://github.com/user/repo.git (push)
