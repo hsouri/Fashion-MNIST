@@ -5,7 +5,7 @@ This is a Python implementation of Bayes and K-nn classifer plus PCA and LDA dim
 
 Note: Please download and copy fashion train set into the fashion folder of the data folder. Link: http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz
 
-The results are saved into `out.txt` file.
+To see the classification accuraacies take a look at `out.txt` file.
 
 # Getting Started
 Clone this repository with the following command:
