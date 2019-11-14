@@ -10,15 +10,19 @@ The results are saved into out.txt file.
 # Getting Started
 Clone this repository with the following command:
 
-$ git clone https://github.com/Pirazh/Circle-Detection
+```shell
+$ git clone https://github.com/hsouri/Fashion-MNIST
+```
 
 # Usage
 The training can be done by running the main function in the Driver.py.
 
 How to read fashion mnist: 
 
+```shell
 traindata, trainlabels = mnistreader.loadmnist(’data/fashion’, kind=’train’)
 testdata, testlabels = mnistreader.loadmnist(’data/fashion’, kind=’t10k’)
+```
 
 # Bayes Train and Test:
 
