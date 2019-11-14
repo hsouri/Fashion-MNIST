@@ -33,8 +33,3 @@ Take a look at main function in the Driver.py to see how to apply PCA and LDA to
 
 # Train all models:
 python Driver.py
-
-
-
-$ git remote add origin https://github.com/user/repo.git
-# Set a new remote
