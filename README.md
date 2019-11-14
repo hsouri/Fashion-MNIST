@@ -48,8 +48,29 @@ knnclassifier.train().test()
 ```
 
 
-# PCA and LDA:
+# PCA:
 
-Take a look at main function in the Driver.py to see how to apply PCA and LDA to the feature vector.
+You can apply PCA with arbitrary number of components to your train and test data using:
+```shell
+from sklearn.decomposition import PCA
+pca = PCA(n_components=100)
+pca.fit(train_data)
+pca_train_data = pca.transform(train_data)
+pca_test_data = pca.transform(test_data)
+```
+# LDA:
+
+You can apply LDA with arbitrary number of components to your train and test data using:
+
+```shell
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
+lda = LDA(n_components=9)
+lda.fit(train_data, train_labels)
+lda_train_data = lda.transform(train_data)
+lda_test_data = lda.transform(test_data)
+```
+Note that the number of components in LDA should be less than number of classes.
+
+Take a look at main function in the `Driver.py` to see how to apply PCA and LDA to the feature vector.
 
 
