@@ -25,7 +25,7 @@ $ python Driver.py
 
 ```
 
-How to read fashion mnist: 
+How to read Fashion MNIST: 
 
 ```shell
 traindata, trainlabels = mnistreader.loadmnist(’data/fashion’, kind=’train’)
