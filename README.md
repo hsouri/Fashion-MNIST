@@ -72,5 +72,3 @@ lda_test_data = lda.transform(test_data)
 Note that the number of components in LDA should be less than number of classes.
 
 Take a look at main function in the `Driver.py` to see how to apply PCA and LDA to the feature vector.
-
-
