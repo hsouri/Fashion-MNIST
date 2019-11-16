@@ -11,7 +11,7 @@ To see the classification accuraacies take a look at `out.txt` file.
 Clone this repository with the following command:
 
 ```shell
-$ git clone https://github.com/hsouri/Fashion-MNIST
+git clone https://github.com/hsouri/Fashion-MNIST
 ```
 
 # Usage
@@ -21,7 +21,7 @@ The training can be done by running the main function in the Driver.py.
 # Train all models:
 
 ```shell
-$ python Driver.py
+python Driver.py
 
 ```
 
